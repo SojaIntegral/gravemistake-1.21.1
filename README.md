@@ -1,3 +1,11 @@
+Probably a massive mistake.
+KeepInventory kind of mod, but with a few tweaks.
+Maybe one day I'll figure out how to make it work.
+
+
+
+
+
 
 Installation information
 =======
